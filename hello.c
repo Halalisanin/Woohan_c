@@ -6,10 +6,10 @@
  * Return: 0 (Success)
  */
 
- int main(void)
+int main(void)
 {
-	/* Print the message to the console */
-	printf("Hello, world!\n");
+/* Print the message to the console */
+printf("Hello, world!\n");
 
-	return 0;
+	return (0);
 }
